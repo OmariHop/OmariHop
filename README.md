@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile! 👋🏾/h1>
+<h1 align="center">Welcome to my profile! 👋🏾</h1>
 <h3 align="center">Hello. My name is Omari Hopkins and I am a senior studying at the University of Central Florida pursuing a computer science degree</h3>
 
 - 📫 How to reach me **om662598@ucf.edu**
